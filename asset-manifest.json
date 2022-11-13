@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://devios01.github.io/csb-1w1uzi/static/css/main.e660e098.chunk.css",
+    "main.js": "https://devios01.github.io/csb-1w1uzi/static/js/main.d605ea10.chunk.js",
+    "main.js.map": "https://devios01.github.io/csb-1w1uzi/static/js/main.d605ea10.chunk.js.map",
+    "runtime-main.js": "https://devios01.github.io/csb-1w1uzi/static/js/runtime-main.e048cf69.js",
+    "runtime-main.js.map": "https://devios01.github.io/csb-1w1uzi/static/js/runtime-main.e048cf69.js.map",
+    "static/css/2.42d51ddf.chunk.css": "https://devios01.github.io/csb-1w1uzi/static/css/2.42d51ddf.chunk.css",
+    "static/js/2.c592a559.chunk.js": "https://devios01.github.io/csb-1w1uzi/static/js/2.c592a559.chunk.js",
+    "static/js/2.c592a559.chunk.js.map": "https://devios01.github.io/csb-1w1uzi/static/js/2.c592a559.chunk.js.map",
+    "index.html": "https://devios01.github.io/csb-1w1uzi/index.html",
+    "static/css/2.42d51ddf.chunk.css.map": "https://devios01.github.io/csb-1w1uzi/static/css/2.42d51ddf.chunk.css.map",
+    "static/css/main.e660e098.chunk.css.map": "https://devios01.github.io/csb-1w1uzi/static/css/main.e660e098.chunk.css.map",
+    "static/js/2.c592a559.chunk.js.LICENSE.txt": "https://devios01.github.io/csb-1w1uzi/static/js/2.c592a559.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e048cf69.js",
+    "static/css/2.42d51ddf.chunk.css",
+    "static/js/2.c592a559.chunk.js",
+    "static/css/main.e660e098.chunk.css",
+    "static/js/main.d605ea10.chunk.js"
+  ]
+}
